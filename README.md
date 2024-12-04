@@ -60,7 +60,7 @@ nodemon app.js
 
 ## Usage/Examples
 
-1. Access the application in your web browser thorugh localhost at http://localhost:3000.
+1. Access the application in your web browser through localhost at http://localhost:3000.
 2. Register or log in as a user (customer).
 3. Explore the features:
 - Admin Panel: Manage products.
