@@ -1,5 +1,5 @@
-
-# E-Commerce Website Project
+#ShopEase
+## E-Commerce Website Project
 
 
 Welcome to the E-Commerce Website project! This Node.js-based application provides a platform for online sales, allowing users to register, log in, and perform various actions related to product management and purchasing. Below, you’ll find instructions on how to set up and use this project.
