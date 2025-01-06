@@ -39,7 +39,7 @@ app.use(express.static('static'))
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'prashik123ys',
+  password : 'password',
   database : 'inventorydb'
 })
 
